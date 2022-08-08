@@ -44,6 +44,7 @@ main {
     cursor: pointer;
     transition: 0.3s all;
 } 
+
 .open:hover {
     transform: scale(1.05);
 }
